@@ -1,7 +1,6 @@
 body {
-    background: url("mIsn8EB2.jpg");
-    background-repeat: 100%;
-
+    background: url("annon.png");
+    background-repeat: repeat-x;
 }
 
 table {
@@ -29,7 +28,7 @@ p {
 }
 
 .two {
-    color: gray;
+    color: red;
 }
 
 .tree {
@@ -41,11 +40,11 @@ p {
 }
 
 .five {
-    background-color: rgba(0, 255, 0, 0.3);
+    background-color: rgba(0, 255, 184, 0.3);
 }
 
 .six {
-    background-color: white;
+    background-color: deepskyblue;
 }
 .button {
     background-color: #4CAF50;

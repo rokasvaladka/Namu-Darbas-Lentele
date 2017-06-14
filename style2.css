@@ -1,7 +1,6 @@
 body {
-    background: url("mIsn8EB2.jpg");
-    background-repeat: 100%;
-
+    background: url("matrix.jpg");
+    background-repeat: repeat-x;
 }
 
 table {
@@ -29,11 +28,11 @@ p {
 }
 
 .two {
-    color: gray;
+    color: lawngreen;
 }
 
 .tree {
-    color: white;
+    color: red;
 }
 
 .four {
@@ -41,7 +40,10 @@ p {
 }
 
 .five {
-    background-color: rgba(0, 255, 0, 0.3);
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.seven {
+    background-color: rgba(100, 184,99, 0.4);
 }
 
 .six {
